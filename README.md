@@ -1,2 +1,2 @@
-# SmoNeRF
+# SmolNeRF
 Small implementation of NeRF
